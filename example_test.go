@@ -1,13 +1,3 @@
-# maps
-
-[![CI](https://github.com/sraphs/maps/actions/workflows/ci.yml/badge.svg)](https://github.com/sraphs/maps/actions/workflows/ci.yml)
-
->  provides some useful functions for working with maps.
-
-
-## Usage
-
-```go
 package maps_test
 
 import (
@@ -52,21 +42,3 @@ func Example() {
 	// string_value
 	// 10µs
 }
-
-```
-
-## Contributing
-
-We alway welcome your contributions :clap:
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-## CHANGELOG
-See [Releases](https://github.com/sraphs/maps/releases)
-
-## License
-[MIT © sraph.com](./LICENSE)
